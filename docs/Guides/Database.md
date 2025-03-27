@@ -1,6 +1,6 @@
 <h1 align="center">Fastify</h1>
 
-## Database
+## Databases
 
 Fastify's ecosystem provides a handful of
 plugins for connecting to various database engines.
